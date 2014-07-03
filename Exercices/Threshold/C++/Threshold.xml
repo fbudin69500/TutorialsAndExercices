@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<executable>
+<category>Filtering.Arithmetic</category>
+<title>Threshold</title>
+<description>Binary threshold of a image</description>
+
+<parameters>
+	<label>IO</label>
+	<description>Input/Output parameters</description> 
+
+	<image>
+		<name>input</name>
+		<label>image input</label>
+		<channel>image</channel>
+		<index>1</index>
+		<description>image input</description>
+	</image>
+	
+	<image>
+		<name>output</name>
+		<label>image output</label>
+		<channel>image</channel>
+		<index>1</index>
+		<description>image output</description>
+	</image>
+
+	<integer>
+		<name>threshold</name>
+		<label>threshold value</label>
+		<index>1</index>
+		<description>threshold value</description>
+	</integer>
+
+</parameters>
+
+</executable>
+
