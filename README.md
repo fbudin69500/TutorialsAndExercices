@@ -6,6 +6,6 @@ See LICENSE.txt
 
 Documentation
 -------------
-
-[https://docs.google.com/document/d/1TRVCUd6eVZj5UXehl-rttnvbNSe3pmHe9zJfXCqUqrI/edit?usp=sharing](Tutorial and Exercices to learn about ITK/VTK/CMake/git)
+Tutorial and Exercices to learn about ITK/VTK/CMake/git:
+https://docs.google.com/document/d/1TRVCUd6eVZj5UXehl-rttnvbNSe3pmHe9zJfXCqUqrI/edit?usp=sharing
 
